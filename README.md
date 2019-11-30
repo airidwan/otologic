@@ -11,4 +11,4 @@
 
 ### Support or Contact
 
-Having trouble with addon? [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with addon? [contact support](https://t.me/uwong19) and we’ll help you sort it out.
